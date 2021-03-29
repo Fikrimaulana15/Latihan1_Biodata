@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">BiodataDiri</string>
+    <string name="biodata">BIODATA</string>
+    <string name="nama_fikri_maulana_amir">Nama : Fikri Maulana Amir</string>
+    <string name="nim_10118074">Nim : 10118074</string>
+    <string name="kelas_if_2">Kelas :IF-2</string>
+    <string name="foto">Foto :</string>
+    <string name="jenis_kelamin_laki_laki">Jenis Kelamin :Laki-laki</string>
+    <string name="tempat_tanggal_lahir_bandung_01_2000">Tempat Tanggal Lahir :Bandung-01-2000</string>
+    <string name="alamat_jalan_babakan_cianjur">Alamat :jalan babakan cianjur</string>
+    <string name="golongan_darah_a">Golongan Darah :A</string>
+    <string name="makanan_kesukaan_ayam_goreng">Makanan Kesukaan :ayam goreng</string>
+    <string name="minuman_kesukaan_thaitea">Minuman kesukaan :Thaitea</string>
+    <string name="hobi_bermain_mobile_legends">Hobi :Bermain Mobile Legends</string>
+    <string name="lagu_favorit_dangdut">Lagu Favorit :Dangdut</string>
+    <string name="film_favorit_avenger">Film Favorit :Avenger</string>
+    <string name="pekerjaan_yang_diinginkan_setelah_kuliah_staff_perusahaan">Pekerjaan yang diinginkan setelah kuliah :staff perusahaan</string>
+</resources>
